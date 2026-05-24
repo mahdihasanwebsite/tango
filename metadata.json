@@ -1,0 +1,6 @@
+{
+  "name": "AURA Premium",
+  "description": "High-end, minimalist Shirt & Pant brand platform featuring premium materials, precise tailoring, and modular design aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
